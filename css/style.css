@@ -8,7 +8,7 @@ header {
 }
 
 nav {
-  background-color: #FF6347;
+  background-color: #E9967A;
 }
 
 main {
@@ -24,10 +24,6 @@ footer {
 li {
   display: inline-block;
   width: 25%;
-}
-
-a {
-  color: #FFFFFF;
 }
 
 h1 {

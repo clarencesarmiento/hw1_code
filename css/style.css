@@ -24,6 +24,9 @@ footer {
 li {
   display: inline-block;
   width: 25%;
+}
+
+a {
   color: #FFFFFF;
 }
 

@@ -24,12 +24,13 @@ footer {
 li {
   display: inline-block;
   width: 25%;
+  color: #FFFFFF;
 }
 
 h1 {
   text-align: center;
   font-family: Arial, sans-serif;
-  color: #FFFAFA;
+  color: #000000;
 }
 
 p {
